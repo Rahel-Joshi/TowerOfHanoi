@@ -3,7 +3,7 @@
 
 To run the program:
 
-$ git pull https://github.com/Rahel-Joshi/TowerOfHanoi\
+$ git pull https://github.com/Rahel-Joshi/TowerOfHanoi \
 $ python main.py
 
 User commands:\
