@@ -12,3 +12,7 @@ User commands:\
     q: quit program\
     a: autosolve\
     n1 n2: move disk from n1 to n2
+
+## Screenshots
+
+![App Screenshot](/screenshot.pngraw=true)
