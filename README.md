@@ -1,8 +1,9 @@
 
 # Tower of Hanoi
 
-Git pull
+To run the program:
 
+$ git pull https://github.com/Rahel-Joshi/TowerOfHanoi
 $ python main.py
 
 User commands:\
