@@ -15,4 +15,4 @@ User commands:\
 
 ## Screenshots
 
-![App Screenshot](/screenshot.pngraw=true)
+![App Screenshot](https://github.com/Rahel-Joshi/TowerOfHanoi/edit/main/screenshot.png)
