@@ -12,7 +12,7 @@ A basic terminal Tower of Hanoi program that allows for user input. Includes a r
 
 ## Installation
 
-Install my-project with npm
+Install Hanoi with git
 
 ```bash
   $ git pull https://github.com/Rahel-Joshi/TowerOfHanoi
